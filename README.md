@@ -11,4 +11,4 @@
 
 ***bold and italic type fonts***
 
-~~Sun rises in the east~~
+~~Sun rises in the east-Strike through statement~~
